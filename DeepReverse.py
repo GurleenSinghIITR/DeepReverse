@@ -1,4 +1,4 @@
-#This code is used to reverse the list and the list present within it.
+#This code is to reverse the list and the list present within it.
 
 def deep_reverse(L):
   L.reverse()			# We reverse the List
